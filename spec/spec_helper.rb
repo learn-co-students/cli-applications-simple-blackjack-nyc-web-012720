@@ -1,4 +1,4 @@
-require_relative "../lib/blackjack.rb"
+require_relative "blackjack.rb"
 
 RSpec.configure do |config|
 # config here

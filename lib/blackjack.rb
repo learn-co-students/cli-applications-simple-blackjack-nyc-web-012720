@@ -1,9 +1,9 @@
 def welcome
-  # code #welcome here
+  puts "Hi!"
 end
 
 def deal_card
-  # code #deal_card here
+  puts "deal_card"
 end
 
 def display_card_total
@@ -11,11 +11,11 @@ def display_card_total
 end
 
 def prompt_user
-  # code #prompt_user here
+  "# code #prompt_user here"
 end
 
 def get_user_input
-  # code #get_user_input here
+  gets.chomp
 end
 
 def end_game
